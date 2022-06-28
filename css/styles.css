@@ -97,8 +97,12 @@
   .container .divider-mobile {
     display: none;
   }
+  .container .advice-text {
+    font-size: 13px;
+  }
   .container .quote-text {
     padding-bottom: 40px;
+    font-size: 28px;
   }
 }
 /*# sourceMappingURL=styles.css.map */

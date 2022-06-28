@@ -93,8 +93,13 @@ $dark-blue: hsl(218, 23%, 16%);
             display: none;
         }
 
+        .advice-text {
+            font-size: 13px;
+        }
+
         .quote-text {
             padding-bottom: 40px;
+            font-size: 28px;
         }
     }
 
